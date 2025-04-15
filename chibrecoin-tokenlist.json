@@ -13,7 +13,7 @@
       "name": "ChibreCoin",
       "symbol": "CHBC",
       "decimals": 18,
-      "logoURI": "ipfs://Qm.../0xdfea978bF286C44f6efEA356d8D0d401bA4E27b5.png"
+      "logoURI": "https://raw.githubusercontent.com/drouzin/chibretruk/main/logo.png"
     }
   ]
 }
